@@ -43,8 +43,8 @@
 
 ###
 
-<br clear="both">
+<br clear="both">https://raw.githubusercontent.com/eriknewland/eriknewland/6a9adb172fa01a58e04c5875b74287a45679a799/snake.svg
 
-<img src="https://raw.githubusercontent.com/eriknewland/eriknewland/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eriknewland/eriknewland/6a9adb172fa01a58e04c5875b74287a45679a799/output/snake.svg" alt="Snake animation" />
 
 ###
